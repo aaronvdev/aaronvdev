@@ -1,4 +1,4 @@
-# Greetings ✨
+## Greetings ✨
 
 With over 10 years of experience in software development, I specialize in front-end and back-end technologies. I have a strong passion for technology and science, and have gained a deep understanding of software design principles, design patterns, object-oriented programming, functional programming, domain-driven design, and microservices. 
 
