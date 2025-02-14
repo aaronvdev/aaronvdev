@@ -4,6 +4,7 @@ With over 10 years of experience in software development, I specialize in front-
 
 I am a versatile individual who is always eager to learn and ready to take on any challenge, whether it be within my country or abroad. My expertise in the field of software engineering has allowed me to develop a highly sought-after skill set. I am confident in my ability to adapt to new technologies and constantly seek ways to expand my knowledge and expertise.
 
+<!--
 ## 🌐 Services
 
 Providing comprehensive digital solutions to help businesses grow online, from SEO optimization to custom web development and software solutions.
@@ -88,11 +89,11 @@ Providing comprehensive digital solutions to help businesses grow online, from S
 </td>
   </tr>
 </table>
+-->
 
+## Let's Build Together 🔗
 
-## 🔗 Let's Build Together
-
-Do you have a project in mind? I'm always interested in hearing about new opportunities. Send me a message, and we can discuss how we can collaborate to bring your ideas to life.
+I'm always interested in hearing about new opportunities. Send me a message, and we can discuss how we can collaborate to bring your ideas to life.
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=aaronvdev&label=Visitors&color=0e75b6&style=flat)
