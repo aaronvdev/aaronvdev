@@ -8,7 +8,7 @@ I am a versatile individual who is always eager to learn and ready to take on an
 
 Typescript & Linux lover ❤️. 
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,python,php,nuxtjs,nextjs,laravel,django,mysql,postgresql,mongodb,docker,gcp,dotnet,linux,js,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,nodejs,python,php,java,nuxtjs,nextjs,laravel,svelte,wordpress,django,mysql,postgresql,mongodb,docker,gcp,dotnet,linux,js,ts,git,vscode)](https://skillicons.dev)
 
 
 <!--
